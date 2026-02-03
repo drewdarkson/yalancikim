@@ -1,0 +1,117 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "id": "movies",
+      "name": "Filmler",
+      "words": [
+        "Titanic","Matrix","Avatar","Gladyatör","Inception","Interstellar","Joker","Batman",
+        "Spiderman","Iron Man","Yüzüklerin Efendisi","Harry Potter","Star Wars","Terminatör",
+        "Godfather","Scarface","Fight Club","Pulp Fiction","Forrest Gump","Yeşil Yol",
+        "Eşkıya","Babam ve Oğlum","V for Vendetta","Prestij","Django","Parasite","Whiplash",
+        "Alien","Predator","Rocky","Rambo","Taxi Driver","Black Swan","Shutter Island",
+        "The Departed","Braveheart","Mad Max","Truman Show","Cast Away","Matrix Reloaded",
+        "Avatar 2","John Wick","Deadpool","Logan","Avengers","Doctor Strange","Thor","Hulk","Ant-Man"
+      ]
+    },
+    {
+      "id": "sports",
+      "name": "Spor",
+      "words": [
+        "Futbol","Basketbol","Voleybol","Tenis","Yüzme","Atletizm","Formula 1","MotoGP",
+        "Boks","Kickboks","MMA","Güreş","Halter","Okçuluk","Eskrim","Ragbi","Amerikan Futbolu",
+        "Beyzbol","Hentbol","Masa Tenisi","Badminton","Snowboard","Kayak","Sörf","Yelken",
+        "Dalış","Triatlon","Maraton","Bisiklet","Dağcılık","Serbest Dalış","CrossFit",
+        "Pilates","Yoga","Jimnastik","Step","Aerobik","Fitness","Powerlifting","Bodybuilding",
+        "Zumba","Squash","Bowling","Snooker","Bilardo","Dart","Paten","Kaykay","BMX","Curling"
+      ]
+    },
+    {
+      "id": "countries",
+      "name": "Ülkeler",
+      "words": [
+        "Türkiye","Almanya","Fransa","İtalya","İspanya","Portekiz","İngiltere","ABD","Kanada",
+        "Meksika","Brezilya","Arjantin","Şili","Kolombiya","Peru","Rusya","Ukrayna","Polonya",
+        "Yunanistan","Bulgaristan","Romanya","Sırbistan","Hırvatistan","Bosna","Macaristan",
+        "Avusturya","İsviçre","Hollanda","Belçika","Danimarka","Norveç","İsveç","Finlandiya",
+        "İzlanda","Japonya","Çin","Güney Kore","Tayland","Vietnam","Endonezya","Malezya",
+        "Hindistan","Pakistan","Nepal","Sri Lanka","Avustralya","Yeni Zelanda","Güney Afrika","Mısır","Fas"
+      ]
+    },
+    {
+      "id": "celebrities",
+      "name": "Ünlüler",
+      "words": [
+        "Brad Pitt","Angelina Jolie","Leonardo DiCaprio","Johnny Depp","Tom Cruise","Will Smith",
+        "Scarlett Johansson","Natalie Portman","Robert De Niro","Al Pacino","Morgan Freeman",
+        "Denzel Washington","Keanu Reeves","Chris Hemsworth","Chris Evans","Robert Downey Jr",
+        "Jennifer Lawrence","Emma Watson","Emma Stone","Margot Robbie","Beyoncé","Rihanna",
+        "Taylor Swift","Adele","Ed Sheeran","Drake","Eminem","Jay-Z","Kanye West","Shakira",
+        "Madonna","Lady Gaga","Justin Bieber","Selena Gomez","The Weeknd","Bruno Mars",
+        "Elon Musk","Bill Gates","Steve Jobs","Mark Zuckerberg","Jeff Bezos","Oprah Winfrey",
+        "David Beckham","Cristiano Ronaldo","Lionel Messi","Neymar","Mbappe","Zlatan","LeBron James"
+      ]
+    },
+    {
+      "id": "food",
+      "name": "Yemekler",
+      "words": [
+        "Pizza","Hamburger","Döner","Lahmacun","Pide","Kebap","Adana","Urfa","Mantı","Börek",
+        "Baklava","Künefe","Sarma","Dolma","Pilav","Kuru Fasulye","İskender","Tantuni","Çiğ Köfte",
+        "Menemen","Omlet","Sucuklu Yumurta","Karnıyarık","İmam Bayıldı","Musakka","Paella",
+        "Sushi","Ramen","Pad Thai","Taco","Burrito","Nachos","Steak","Lasagna","Risotto",
+        "Spaghetti","Carbonara","Alfredo","Pancake","Waffle","French Toast","Cheesecake",
+        "Brownie","Tiramisu","Dondurma","Milkshake","Smoothie","Salata","Çorba"
+      ]
+    },
+    {
+      "id": "objects",
+      "name": "Nesneler",
+      "words": [
+        "Telefon","Bilgisayar","Tablet","Televizyon","Kumanda","Kulaklık","Hoparlör","Saat",
+        "Gözlük","Cüzdan","Anahtar","Şemsiye","Çanta","Ayakkabı","Ceket","Mont","Tişört",
+        "Pantolon","Masa","Sandalye","Koltuk","Yatak","Yastık","Battaniye","Dolap","Ayna",
+        "Buzdolabı","Çamaşır Makinesi","Bulaşık Makinesi","Fırın","Mikrodalga","Tost Makinesi",
+        "Kettle","Ütü","Süpürge","Lamba","Avize","Saat","Takvim","Kitap","Defter","Kalem",
+        "Silgi","Cetvel","Makas","Zımba","Dosya","Mouse","Klavye"
+      ]
+    },
+    {
+      "id": "animals",
+      "name": "Hayvanlar",
+      "words": [
+        "Kedi","Köpek","Aslan","Kaplan","Leopar","Puma","Jaguar","Fil","Zürafa","Zebra","At",
+        "Eşek","İnek","Koyun","Keçi","Deve","Tavşan","Sincap","Ayı","Kurt","Tilki","Çakal",
+        "Maymun","Goril","Şempanze","Penguen","Kartal","Şahin","Baykuş","Serçe","Papağan",
+        "Flamingo","Balina","Yunus","Köpekbalığı","Ahtapot","Kalamar","Yengeç","Istakoz",
+        "Kaplumbağa","Timsah","Yılan","Kertenkele","İguana","Kurbağa","Semender","Arı","Karınca","Kelebek"
+      ]
+    },
+    {
+      "id": "jobs",
+      "name": "Meslekler",
+      "words": [
+        "Doktor","Hemşire","Öğretmen","Pilot","Mühendis","Mimar","Avukat","Hakim","Savcı",
+        "Polis","Asker","İtfaiyeci","Paramedik","Eczacı","Diş Hekimi","Veteriner","Psikolog",
+        "Psikiyatrist","Sosyolog","Ekonomist","Muhasebeci","Finansçı","Bankacı","Yatırımcı",
+        "Borsacı","Yazılımcı","Programcı","Veri Analisti","Siber Güvenlik Uzmanı","Tasarımcı",
+        "Grafiker","UI Designer","UX Designer","Fotoğrafçı","Kameraman","Yönetmen","Oyuncu",
+        "Senarist","Yazar","Editör","Gazeteci","Sunucu","Spiker","Influencer","Youtuber",
+        "Streamer","Prodüktör","DJ","Müzisyen","Besteci"
+      ]
+    },
+    {
+      "id": "technology",
+      "name": "Teknoloji",
+      "words": [
+        "Yapay Zeka","Makine Öğrenmesi","Derin Öğrenme","Blockchain","Kripto","Bitcoin",
+        "Ethereum","NFT","Metaverse","Bulut Bilişim","Big Data","Veri Madenciliği",
+        "Siber Güvenlik","Firewall","VPN","API","SDK","Framework","Flutter","Dart",
+        "Kotlin","Swift","Java","Python","JavaScript","TypeScript","React","Angular",
+        "Vue","Node.js","Docker","Kubernetes","CI/CD","Git","GitHub","Bitbucket",
+        "Linux","Windows","macOS","Android","iOS","Web","Mobil","IoT","5G","WiFi",
+        "Bluetooth","GPS","NFC","QR Kod"
+      ]
+    }
+  ]
+}
